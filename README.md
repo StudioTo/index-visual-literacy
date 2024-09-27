@@ -1,11 +1,13 @@
-# WikiType
-  Index de Ressources Typographiques
+# 🌐 WikiType
+  Index de ressources typographiques
 
 # A
 # B
+  Bézier
 # C
   Cheklist:
 # D
+  Ductus
 # E
 # F
 # G
