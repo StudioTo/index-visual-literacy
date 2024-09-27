@@ -11,35 +11,35 @@
 # E
 # F
 # G
-  Glyphs:
+  Glyphs:  
   Grep:
 # H
 # I
 # J
 # K
-  Kupferschmid
+  Kupferschmid:
 # L
-  License
+  License:
 # M
-  Macro-Typo
+  Macro-Typo:  
   Micro-Typo
 # N
 # O
-  Open Source
-  OTF
+  Open Source:  
+  OTF:
 # P
 # Q
 # R
 # S
-  SVG
+  SVG:
 # T
-  TTF
-  Thibaudeau
+  TTF:  
+  Thibaudeau:
 # U
 # V
-  Vox
+  Vox:
 # W
-  Woff, Woff2
+  Woff, Woff2:
 # X
 # Y
 # Z
