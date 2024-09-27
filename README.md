@@ -6,8 +6,10 @@
   🔗 Assemblage:  
 # B
   Bézier
+  🌅 Bmp:
 # C
   ✅ Cheklist:
+  Cahier:
 # D
   💻 Desktop:  
   ✍🏻 Ductus:  
@@ -15,9 +17,11 @@
   🔠 Eot:  
 # F
 # G
+  🍭 Gestalt:
   Glyphs:  
   🔄 Grep:
 # H
+  🌀 Hybridation
 # I
   InDesign:  
 # J
@@ -28,12 +32,16 @@
   📚 Livre des Polices:
 # M
   🔎 Macro-Typo:  
-  🔍 Micro-Typo
+  🔍 Micro-Typo:
+  🔮 Moodboard:
 # N
+  🎨 Nuances:
 # O
   🤲🏻 Open Source:  
   🔠 Otf:
 # P
+  📝 Pangramme:
+  📄 Pdf:
 # Q
 # R
 # S
@@ -41,6 +49,7 @@
 # T
   🔠 TTF:  
   🗂️ Thibaudeau:
+  Trame:
 # U
 # V
   🔠 Variable:  
