@@ -1,5 +1,5 @@
 # WikiType
-# Index de Ressources Typographiques
+  Index de Ressources Typographiques
 
 # A
 # B
