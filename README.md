@@ -1,54 +1,54 @@
-# 🌐 WikiType
-  Index de ressources typographiques
+# 🌀 Visual Literacy 👀
+  Index de ressources graphiques et typographiques
 
 # A
-  Adobe Font Folder:  
-  Assemblage:  
+  📁 Adobe Font Folder:  
+  🔗 Assemblage:  
 # B
   Bézier
 # C
-  Cheklist:
+  ✅ Cheklist:
 # D
-  Desktop:  
-  Ductus:  
+  💻 Desktop:  
+  ✍🏻 Ductus:  
 # E
-  Eot:  
+  🔠 Eot:  
 # F
 # G
   Glyphs:  
-  Grep:
+  🔄 Grep:
 # H
 # I
   InDesign:  
 # J
 # K
-  Kupferschmid:
+  🗂️ Kupferschmid:
 # L
-  License:
-  Livre des Polices:
+  📑 License:
+  📚 Livre des Polices:
 # M
-  Macro-Typo:  
-  Micro-Typo
+  🔎 Macro-Typo:  
+  🔍 Micro-Typo
 # N
 # O
-  Open Source:  
-  Otf:
+  🤲🏻 Open Source:  
+  🔠 Otf:
 # P
 # Q
 # R
 # S
-  Svg:
+  🔠 Svg:
 # T
-  TTF:  
-  Thibaudeau:
+  🔠 TTF:  
+  🗂️ Thibaudeau:
 # U
 # V
-  Variable:  
-  Vectorisation:  
-  Vox:
+  🔠 Variable:  
+  ⚫️ Vectorisation:  
+  🗂️ Vox:
 # W
-  Webfont:  
-  Woff, Woff2:
+  🌐 Webfont:  
+  🔠 Woff, Woff2:
 # X
 # Y
 # Z
